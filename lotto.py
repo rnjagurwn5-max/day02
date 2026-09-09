@@ -1,3 +1,8 @@
+#로또 V1
+
+
+
+
 import streamlit as st
 import random 
 from datetime import datetime
